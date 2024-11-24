@@ -8,7 +8,7 @@ const Home = () => {
 
   return (
     <>
-      <section className='flex flex-col md:flex-row justify-between items-center px-6 w-full h-[90vh] md:h-[80vh] bg-gray-800'>
+      <section className='flex flex-col md:flex-row justify-between items-center md:py-0 py-5 px-6 w-full h-[90vh] md:h-[80vh] bg-gray-800'>
         <div className='text-white text-center md:text-left mb-6 md:mb-0'>
           <h1 className='text-2xl md:text-4xl my-2'>M Suleman</h1>
           <h2 className='text-sm md:text-base lg:text-lg'>
